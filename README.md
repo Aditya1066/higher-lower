@@ -101,5 +101,5 @@ For further information or queries, please contact:
 ## Acknowledgements
 
 - GIFs used in this application are sourced from Giphy.
--
+
 ![Flask](https://img.shields.io/badge/Flask-v2.3.2-blue)
